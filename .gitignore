@@ -70,3 +70,18 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+battleship/battle ship/.vsconfig
+battleship/battle ship/Assets/aibot.cs
+battleship/battle ship/Assets/aibot.cs.meta
+battleship/battle ship/Assets/deistviaaibota.cs
+battleship/battle ship/Assets/deistviaaibota.cs.meta
+battleship/battle ship/Assets/Scenes.meta
+battleship/battle ship/Assets/Scenes/SampleScene.unity
+battleship/battle ship/Assets/Scenes/SampleScene.unity.meta
+battleship/battle ship/Library/AnnotationManager
+battleship/battle ship/Library/APIUpdater/project-dependencies.graph
+battleship/battle ship/Library/ArtifactDB
+battleship/battle ship/Library/ArtifactDB-lock
+battleship/battle ship/Library/Artifacts/00/000449251c964c0170e8be3f595afe46
+battleship/battle ship/Library/Artifacts/00/00083b8e067021deb7d3bfeeac54d5c7
+*.cs
